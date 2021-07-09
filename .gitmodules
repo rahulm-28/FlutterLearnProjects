@@ -1,0 +1,4 @@
+[submodule "<path>"]
+	ignore = untracked
+[submodule "D:\\RnD\\Flutter\\flutterLearnProjects\\mi_card"]
+	ignore = untracked
